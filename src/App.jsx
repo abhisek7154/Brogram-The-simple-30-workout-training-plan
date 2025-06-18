@@ -7,7 +7,7 @@ function App() {
   return (
     <Layout>
       <main>
-        <Hero />
+        <Hero /> 
         <Grid />
       </main>
     </Layout>

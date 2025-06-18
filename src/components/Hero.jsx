@@ -14,11 +14,11 @@ export default function Hero() {
            <p>To complete this program, you <b>MUST</b> folloe these 
            3 simple rules</p>
            <ul className="rules-list">
-            <div className="rules-item">
+            <div className="rule-item">
                 <p><b>Rest</b></p>
                 <p>Ensure that you are taking rest days where necessery</p>
             </div>
-            <div className="rules-item">
+            <div className="rule-item">
                 <p><b>Reps</b></p>
                 <p>Every rep is a pause rep following a <abbr title="2 second down - 2 seconds pause - 2 seconds up"> 2 - 2 - 2 tempo</abbr></p>
             </div>
